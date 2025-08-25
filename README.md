@@ -29,6 +29,6 @@ To practice Excel skills by creating a simple sales dashboard that converts raw 
 
  About Me  
 This project was made as a beginner exercise in Excel data analysis.  
-- 📌 [My LinkedIn Profile]([https://www.linkedin.com/](https://www.linkedin.com/in/rishikashetty18 ))  
+- 📌([https://www.linkedin.com/](https://www.linkedin.com/in/rishikashetty18 ))  
 
 ---
