@@ -4,7 +4,7 @@ This is a sample sales dashboard built in Microsoft Excel. The project is for le
 
  Project Contents  
 - Sales_Data_Sample_Dashboard.xlsx → The Excel file containing the interactive dashboard  
-- Data/ → Folder with the raw dataset (sales data from 2014–2017)  
+- Data/ → Folder with the raw dataset (sales data from 2003–2004 sample)   
 
 Features of the Dashboard  
 - Sales trend over time  
